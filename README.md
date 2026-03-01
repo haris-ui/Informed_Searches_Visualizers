@@ -1,0 +1,1 @@
+You just have to clone the repo or download the zip file once you clone it or download it open it in code editor and make sure you have python installed check it by writing python --version if it looks good then write pip install pygame and pip install tkinter and once doen then write on console python main.py and you have the visualizer
