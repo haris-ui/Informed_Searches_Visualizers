@@ -29,7 +29,7 @@ class PathfindingApp:
     def __init__(self):
         pygame.init()
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption("Dynamic Pathfinding Agent: A* vs GBFS")
+        pygame.display.set_caption("INFORMED SEARCH VISUALIZER")
         self.clock = pygame.time.Clock()
         self.font = pygame.font.SysFont("Arial", 18)
         self.bold_font = pygame.font.SysFont("Arial", 18, bold=True)
